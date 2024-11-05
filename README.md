@@ -28,7 +28,7 @@ I'm always exploring new tools and approaches to stay at the forefront of techno
 - Alpine.js, HTMX, React, Svelte, Tailwind CSS
 
 ### Methodologies
-- Feature-driven, Kanban, Lean, Scrum
+- Feature-driven, Lean
 
 ## My Favorite Tech Stack
 
