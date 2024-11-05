@@ -35,15 +35,15 @@ I'm always exploring new tools and approaches to stay at the forefront of techno
 I love working with a modern, efficient stack that helps me build fast, scalable, and reliable applications. Here’s my go-to setup for personal projects:
 
 - [Astro](https://astro.build)
-- [Supabase](https://supabase.com)
-- [Strapi](https://strapi.io)
+- Supabase
+- [Strapi](https://strapi.io/community)
 - [HTMX](https://htmx.org)
 - [Alpine.js](https://alpinejs.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Node.js](https://nodejs.org)
-- [Digital Ocean](https://www.digitalocean.com)
-- [Cloudflare](https://www.cloudflare.com)
-- [Vercel](https://vercel.com)
+- Digital Ocean
+- Cloudflare
+- Vercel
 
 ## Building SaaS
 
