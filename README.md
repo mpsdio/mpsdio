@@ -1,4 +1,4 @@
-# <HiThere /> 👋
+# Hi there 👋
 
 I'm a software developer with over 20 years of experience, blending business goals with innovative tech solutions. My coding journey began back in the early 90s on an IBM 8086 XT, where I honed my skills in Clipper, Pascal, and C++. By my mid-teens, I was already creating and selling software for DOS. Fast forward to today, I specialize in .NET and C#, JavaScript and TypeScript, Astro, Next.js, SvelteKit, Node.js, and cloud-native web apps. I'm passionate about continuous learning, clean code, and sticking to best practices.
 
