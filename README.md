@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**marcelopastorino/marcelopastorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with over 20 years of experience, blending business goals with innovative tech solutions. My coding journey began back in the early 90s on an IBM 8086 XT, where I honed my skills in Clipper, Pascal, and C++. By my mid-teens, I was already creating and selling software for DOS. Fast forward to today, I specialize in .NET and C#, JavaScript and TypeScript, Astro, Next.js, SvelteKit, Node.js, and cloud-native web apps. I'm passionate about continuous learning, clean code, and sticking to best practices.
 
-Here are some ideas to get you started:
+## My Favorite Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love working with a modern, efficient stack that helps me build fast, scalable, and reliable applications. Here’s my go-to setup for personal projects:
+
+- [Astro](https://astro.build)
+- [Supabase](https://supabase.com)
+- [Strapi](https://strapi.io)
+- [HTMX](https://htmx.org)
+- [Alpine.js](https://alpinejs.dev)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Node.js](https://nodejs.org)
+- [Digital Ocean](https://www.digitalocean.com)
+- [Cloudflare](https://www.cloudflare.com)
+- [Vercel](https://vercel.com)
+
+## Building SaaS
+
+🚀 Right now, I’m focused on creating an exciting project management app. My aim is to simplify workflows, boost collaboration, and make the entire experience more intuitive and enjoyable for users. I’m committed to building something that’s not just powerful and scalable, but also user-friendly and loved by the people who use it.
+
+## On Pluralsight
+
+I'm a proud [Pluralsight Author](https://app.pluralsight.com/profile/author/marcelo-pastorino), with courses covering Cloud and Software Development. I’m currently working on a new course focused on Next.js — stay tuned!
