@@ -10,7 +10,7 @@ I'm always exploring new tools and approaches to stay at the forefront of techno
 - Llama, LangChain, OpenAI, RAG, Jupyter, NotebookLM
 
 ### Architecture
-- Clean Architecture, Vertical Slices, CQRS, Event Sourcing, HATEOAS
+- Clean Architecture, Vertical Slices, CQRS, Event Sourcing, SOLID, HATEOAS
 
 ### Cloud
 - Azure, Cloudflare, Digital Ocean, Vercel
