@@ -45,7 +45,7 @@ I love working with a modern, efficient stack that helps me build fast, scalable
 - Cloudflare
 - Vercel
 
-## Building SaaS
+## Building Products
 
 🚀 Right now, I’m focused on creating an exciting project management app. My aim is to simplify workflows, boost collaboration, and make the entire experience more intuitive and enjoyable for users. I’m committed to building something that’s not just powerful and scalable, but also user-friendly and loved by the people who use it.
 
