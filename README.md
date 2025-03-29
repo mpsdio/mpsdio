@@ -16,7 +16,7 @@ I'm always exploring new tools and approaches to stay at the forefront of techno
 - Azure, Cloudflare, Digital Ocean, Vercel
 
 ### Data
-- Postgres, Strapi, Supabase
+- Postgres, SQL Server, Strapi, Supabase
 
 ### Frameworks
 - .NET, Astro, Next.js, Node.js, SvelteKit
