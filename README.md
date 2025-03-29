@@ -10,7 +10,7 @@ I'm always exploring new tools and approaches to stay at the forefront of techno
 - Llama, LangChain, OpenAI, RAG, Jupyter, NotebookLM
 
 ### Architecture
-- Clean Architecture, Vertical Slices, CQRS, Event Sourcing, SOLID, HATEOAS
+- Clean Architecture, CQRS, Event Sourcing, HATEOAS, SOLID, Vertical Slices 
 
 ### Cloud
 - Azure, Cloudflare, Digital Ocean, Vercel
@@ -28,7 +28,7 @@ I'm always exploring new tools and approaches to stay at the forefront of techno
 - Alpine.js, HTMX, React, Svelte, Tailwind CSS
 
 ### Methodologies
-- Feature-driven, Lean
+- Agile, Feature-driven, Lean
 
 ## My Favorite Tech Stack
 
